@@ -1,0 +1,1 @@
+CREATE INDEX stores_gix ON stores USING GIST ( location );
